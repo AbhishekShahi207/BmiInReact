@@ -1,2 +1,2 @@
 ## Bmi Calculator using Reactjs
-### Hook used in theis Project are :-useEffect,useState
+### Hook used in theis Project are :-useMemo,useState
